@@ -1,0 +1,145 @@
+{
+    "Format": "2.3.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Strings/Objects",
+            "When": {
+                "Language": "hu"
+            },
+            "Entries": {
+                "Trash_Description": "Epres Lays osztálytársa"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Strings/Objects",
+            "When": {
+                "Language": "en"
+            },
+            "Entries": {
+                "Trash_Description": "Epres Lays' classmates"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Abigail",
+            "FromFile": "assets/Abigail/Abigail.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Abigail_Beach",
+            "FromFile": "assets/Abigail/Abigail_Beach.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Abigail_Winter",
+            "FromFile": "assets/Abigail/Abigail_Winter.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Abigail",
+            "FromFile": "assets/Abigail/Abigail-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Abigail_Beach",
+            "FromFile": "assets/Abigail/Abigail_Beach-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Abigail_Winter",
+            "FromFile": "assets/Abigail/Abigail_Winter-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Caroline",
+            "FromFile": "assets/Caroline/Caroline.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Caroline_Beach",
+            "FromFile": "assets/Caroline/Caroline_Beach.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Caroline_Winter",
+            "FromFile": "assets/Caroline/Caroline_Winter.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Caroline",
+            "FromFile": "assets/Caroline/Caroline-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Caroline_Beach",
+            "FromFile": "assets/Caroline/Caroline_Beach-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Caroline_Winter",
+            "FromFile": "assets/Caroline/Caroline_Winter-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Leah",
+            "FromFile": "assets/Leah/Leah.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Leah_Beach",
+            "FromFile": "assets/Leah/Leah_Beach.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Leah_Winter",
+            "FromFile": "assets/Leah/Leah_Winter.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Leah",
+            "FromFile": "assets/Leah/Leah-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Leah_Beach",
+            "FromFile": "assets/Leah/Leah_Beach-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Leah_Winter",
+            "FromFile": "assets/Leah/Leah_Winter-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Haley",
+            "FromFile": "assets/Haley/Haley.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Haley_Beach",
+            "FromFile": "assets/Haley/Haley_Beach.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Haley_Winter",
+            "FromFile": "assets/Haley/Haley_Winter.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Haley",
+            "FromFile": "assets/Haley/Haley-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Haley_Beach",
+            "FromFile": "assets/Haley/Haley_Beach-Portrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Haley_Winter",
+            "FromFile": "assets/Haley/Haley_Winter-Portrait.png"
+        }
+    ]
+}

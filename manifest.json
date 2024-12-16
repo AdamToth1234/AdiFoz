@@ -1,0 +1,11 @@
+{
+    "Name": "AdiFoz",
+    "Author": "outofenergy",
+    "Version": "1.0.0",
+    "Description": "Ádi főz",
+    "UniqueID": "outofenergy.AdiFoz",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
